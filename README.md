@@ -2,7 +2,7 @@
 
 디지털 인문학 프로젝트에 대한 포트폴리오 사이트입니다.<br>
 - Readme를 먼저 읽고 파일을 다운받아 확인하시는 것을 권장합니다.
-- ipynb 파일은 Google Colab에서 제작되었으므로, Colab에서 확인하시는 것을 추천드립니다.<br><br>
+- ipynb 파일은 Google Colab에서 제작되었으므로, **Colab에서 확인하시는 것을 추천**드립니다.<br><br>
 
 ## 폴더 1. 감정 분석 모델 소개
 1. **Evolution of Sentiment Analysis Models for Novels**:<br>
