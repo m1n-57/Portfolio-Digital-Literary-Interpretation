@@ -4,7 +4,7 @@
 - Readme를 먼저 읽고 파일을 다운받아 확인하시는 것을 권장합니다.
 - ipynb 파일은 Google Colab에서 제작되었으므로, **Colab에서 확인하시는 것을 추천**드립니다.<br><br>
 
-## 폴더 1. 감정 분석 모델 소개
+## 폴더 1. 감정 분석 모델 소개 폴더 (book of project)
 1. **Evolution of Sentiment Analysis Models for Novels**:<br>
    감정 분석 모델이 여러 수정 단계를 거쳐 발전하는 과정입니다.<br>
    첫 번째로 보는 것을 추천드립니다.<br><br>
@@ -15,10 +15,10 @@
    감정 분석 모델을 통해 열 가지 고전소설을 분석했습니다.<br>
    마지막으로 보는 것을 추천드립니다.<br><br>
 
-## 폴더 2. 감정 분석 결과
+## 폴더 2. 감정 분석 결과 (analysis result)
 감정 분석 모델을 통해 소설의 감정 분석 결과와 사진들을 모아놓은 폴더입니다. 확인하시면 되겠습니다.<br><br>
 
-## 폴더 3. 추가적인 폴더
+## 폴더 3. 추가적인 폴더 (additional folder)
 Significant Fluctuation Point의 원문을 출력하여 읽을 수 있는 코드에 대한 설명이 추가되었습니다.<br>
 이어, Presentation.pptx는 실제 수업에서 발표할 ppt 자료입니다.<br><br>
 
