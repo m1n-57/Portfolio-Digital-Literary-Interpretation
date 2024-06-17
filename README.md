@@ -23,6 +23,6 @@ Significant Fluctuation Point의 원문을 출력하여 읽을 수 있는 코드
 이어, Presentation.pptx는 실제 수업에서 발표할 ppt 자료입니다.<br><br>
 
 ## 3. 공개 홈페이지
-이에 대해 간략하게 포스팅된 홈페이지입니다: <br>
-[https://marsha050767.wixsite.com/sentiment-analysis](https://marsha050767.wixsite.com/sentiment-analysis)<br>
-한국어/영어 모두 지원합니다.
+이에 대해 간략하게 포스팅된 홈페이지입니다(한국어/영어 모두 지원): <br>
+[https://marsha050767.wixsite.com/sentiment-analysis](https://marsha050767.wixsite.com/sentiment-analysis)
+
